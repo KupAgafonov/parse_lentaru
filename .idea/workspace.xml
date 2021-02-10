@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="195c9b98-6568-4bc8-aaec-cfae248e5419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/CarNumber/CarNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Company/Company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/DirectoryCopy/DirectoryCopy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/DirectorySizeCounter/DirectorySizeCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/Hibernate/Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/MSKMetro/MSKMetro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/ParseBankStatementFile/ParseBankStatementFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/SPBMetro/SPBMetro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/WebSiteParsing/WebSiteParsing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/SearchCarNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/GenerateResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/SearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SearchCarNumber/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelephoneBook/TelephoneBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Ages/Ages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/BEP_Incom/IncomeCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Booleans/Booleans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Cat/Cat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/CodeAlphabet/CodeAlphabet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Container/Container.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ContainerCycleWhile/ContainerCycleWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Cycles/Cycles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MathRandom/MathRandom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Max_Value/Max_Value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/Cat/Cat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/Fibonachi/Fibonachi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/First_project/First_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/Git_Start/Git_Start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/MyExperiments/MyExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/MyExperiments/out/production/MyExperiments/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/MyExperiments/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/MyFirstProject/MyFirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/StringExperiments/StringExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/MyProjects/Work_1/Work_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RegexFIO/RegexFIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Regular_fio/Regular_fio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ReverseArray/ReverseArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RoadCamera/RoadCamera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/RoadController/RoadController.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/SierraBates/Java/KodMagnit1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/SierraBates/Java1/Java1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/SierraBates/Java2/LearningJava_upr1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/StringExperiments/StringExperiments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/String_Class/StringBuilder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/Ticket/Ticket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/VarProject/VarProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/WhileCycle/WhileCycle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/regexWords/regexWords.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IdeaProjects/ticketWhile/ticketWhile.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oIsMc5w06VjPxbsRp53QP5xUbl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ParseLentaru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="195c9b98-6568-4bc8-aaec-cfae248e5419" name="Default Changelist" comment="" />
+      <created>1612985393896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612985393896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
