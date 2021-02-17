@@ -36,19 +36,19 @@ public class Main {
         }
     }
 
-//    private static void downloadFile(String url) {   //один try()
-//
-//        checkFoulder(saveTarget);
-//
-//        try (InputStream inputStream = new URL(url).openStream()) {
-//            Files.copy(inputStream, Path.of(
-//                    String.valueOf(new File(saveTarget + new File(url).getName()).toPath())),
-//                    StandardCopyOption.REPLACE_EXISTING);
-//            LOGGER.info(PRINT_MARKER, "Скачен файл : " + saveTarget + new File(url).getName());
-//        } catch (Exception ex) {
-//            LOGGER.error(EXCEPTION_MARKER, (Object) ex);
-//        }
-//    }
+    private static void downloadFile(String url) {   //один try()
+
+        checkFoulder(saveTarget);
+
+        try (InputStream inputStream = new URL(url).openStream()) {
+            Files.copy(inputStream, Path.of(
+                    String.valueOf(new File(saveTarget + new File(url).getName()).toPath())),
+                    StandardCopyOption.REPLACE_EXISTING);
+            LOGGER.info(PRINT_MARKER, "Скачен файл : " + saveTarget + new File(url).getName());
+        } catch (Exception ex) {
+            LOGGER.error(EXCEPTION_MARKER, (Object) ex);
+        }
+    }
 
     public static void checkFoulder(String foulderDir){
         File folder = new File(foulderDir);
